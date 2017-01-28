@@ -5,7 +5,6 @@ osmc_net = xbmcaddon.Addon('script.module.osmcsetting.networking')
 sys.path.append(xbmc.translatePath( os.path.join(osmc_net.getAddonInfo('path'), 'resources', 'lib')))
 
 from osmc_bluetooth import is_bluetooth_available,toggle_bluetooth_state,is_bluetooth_enabled, connect_device, is_device_connected, disconnect_device
-# from "../resource/osmc_bluetooth" import is_bluetooth_available
 
 device_conn = "C4:B3:01:E5:44:C0"
 
