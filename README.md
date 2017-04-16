@@ -2,4 +2,4 @@
 Bluetooth audio toogler for OSCM
 
 Keymap:
-<key>RunScript("script.bluetooth.toggler","toggle")</key>
+<key>RunScript("script.bluetooth.toggler")</key>
