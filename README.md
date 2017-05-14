@@ -1,5 +1,5 @@
 # script.bluetooth.toggler
-Bluetooth audio toogler for OSCM
+Bluetooth audio toggler for OSCM
 
 Change device MAC address in addon.py
 
